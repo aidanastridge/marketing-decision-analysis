@@ -1,1 +1,1 @@
-# marketing_decision_analysis
+# marketing decision analysis
