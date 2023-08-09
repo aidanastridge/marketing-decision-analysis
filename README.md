@@ -1,3 +1,3 @@
-# marketing decision analysis
+# Marketing Decision Analysis
 
 Work in progress
